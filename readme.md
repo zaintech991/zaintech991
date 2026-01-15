@@ -48,9 +48,6 @@ Here’s how I help clients unlock growth:
 Need a **custom AI chatbot**, **predictive model**, or **automation system** that drives real impact?  
 I’ll help you take your idea from **concept → working prototype → production success.**
 
-📩 **Let’s Connect:**  
-✉️ [Email](mailto:zainulpasha128@gmail.com)
-
 ---
 
 **#MachineLearning #GenerativeAI #AIChatbots #RAG #NLP #Forecasting #DataEngineering #MLOps #CloudComputing #Automation #Python**
